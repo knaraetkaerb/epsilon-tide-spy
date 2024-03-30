@@ -1,0 +1,35 @@
+{
+  "name": "epsilon-tide-spy",
+  "version": "1.0.0",
+  "description": "Spies tides in the epsilon ocean, providing marine analytics and tidal behavior studies in virtual aquatic environments.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/epsilon-tide-spy"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "zeta-beacon-engineer": "1.0.0",
+    "eta-storm-tamer": "1.0.0",
+    "babel-core": "1.0.0",
+    "jest": "1.0.0",
+    "validator": "1.0.0",
+    "sequelize": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "multer": "1.0.0",
+    "async": "1.0.0",
+    "web3": "1.0.0",
+    "truffle": "1.0.0",
+    "solc": "1.0.0",
+    "node-sass": "1.0.0",
+    "nodemon": "1.0.0",
+    "ejs": "1.0.0",
+    "firebase": "1.0.0"
+  }
+}
